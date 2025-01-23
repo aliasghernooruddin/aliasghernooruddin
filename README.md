@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliasghernooruddin](https://github.com/aliasghernooruddin)
 
-- 💬 Ask me about **Angular, Vue, Django**
+- 💬 Ask me about **Angular, Node, Vue, Python, Django**
 
 - 📫 How to reach me **aliasghernooruddin@gmail.com**
 
